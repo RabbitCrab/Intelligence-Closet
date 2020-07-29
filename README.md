@@ -1,4 +1,4 @@
-# Intelligence-Closet
+# Intelligence Closet
 
 A team project that works out on the outfit of the day according to the weather and schedule.
   
